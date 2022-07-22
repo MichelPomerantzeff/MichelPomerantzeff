@@ -2,7 +2,7 @@
 
 * My name is Michel Pomerantzeff and I am a Front-end Developer.
 * [My Portfolio website](https://michelpomerantzeff.github.io/portfolio/)
-
+##
 <div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=michelpomerantzeff&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
