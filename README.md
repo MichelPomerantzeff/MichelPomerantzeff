@@ -20,9 +20,3 @@
     <img align="center" alt="img-JQuery" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="img-JQuery" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
-
-##
-
-<div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=michelpomerantzeff&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-</div>
