@@ -26,6 +26,4 @@ I'm a Frontend Developer with experience working with popular frontend framework
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/michelpomerantzeff/)
 - [![Website](https://img.shields.io/badge/Personal-Website-brightgreen)](https://michelpomerantzeff.netlify.app/)
 
-Check out my GitHub repositories for more projects and contributions!
-
 Feel free to reach out to me if you have any questions or want to connect!
