@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm a Frontend Developer with experience working with popular frontend frameworks like React and Angular. I'm passionate about creating user-friendly interfaces and delivering high-quality web applications.
+I'm a Frontend Developer with experience working with popular frontend frameworks such as React and Angular. I'm passionate about creating user-friendly interfaces and delivering high-quality web applications.
 
 ## My Skills
 
